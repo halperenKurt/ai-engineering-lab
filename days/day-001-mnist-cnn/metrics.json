@@ -1,0 +1,26 @@
+{
+  "device": "cpu",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.2553886953612169,
+      "train_accuracy": 0.9241166666666667,
+      "test_loss": 0.07598984263539314,
+      "test_accuracy": 0.9757
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.06150684241453806,
+      "train_accuracy": 0.9814166666666667,
+      "test_loss": 0.05237736028656363,
+      "test_accuracy": 0.982
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.04234985868881146,
+      "train_accuracy": 0.9871666666666666,
+      "test_loss": 0.03484210158409551,
+      "test_accuracy": 0.988
+    }
+  ]
+}
