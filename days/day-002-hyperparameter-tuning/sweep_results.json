@@ -1,0 +1,50 @@
+{
+  "device": "cpu",
+  "results": [
+    {
+      "learning_rate": 0.001,
+      "batch_size": 64,
+      "epochs": 2,
+      "final_train_loss": 0.04969566627380748,
+      "final_train_accuracy": 0.9847333333333333,
+      "final_test_loss": 0.041000869276933374,
+      "final_test_accuracy": 0.9871
+    },
+    {
+      "learning_rate": 0.001,
+      "batch_size": 128,
+      "epochs": 2,
+      "final_train_loss": 0.06150684241453806,
+      "final_train_accuracy": 0.9814166666666667,
+      "final_test_loss": 0.05237736028656363,
+      "final_test_accuracy": 0.982
+    },
+    {
+      "learning_rate": 0.0005,
+      "batch_size": 64,
+      "epochs": 2,
+      "final_train_loss": 0.06442682243784269,
+      "final_train_accuracy": 0.98,
+      "final_test_loss": 0.052065519922599196,
+      "final_test_accuracy": 0.9821
+    },
+    {
+      "learning_rate": 0.0005,
+      "batch_size": 128,
+      "epochs": 2,
+      "final_train_loss": 0.08147964686751366,
+      "final_train_accuracy": 0.9760333333333333,
+      "final_test_loss": 0.06457456346452237,
+      "final_test_accuracy": 0.9786
+    }
+  ],
+  "best": {
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "epochs": 2,
+    "final_train_loss": 0.04969566627380748,
+    "final_train_accuracy": 0.9847333333333333,
+    "final_test_loss": 0.041000869276933374,
+    "final_test_accuracy": 0.9871
+  }
+}
